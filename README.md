@@ -1,3 +1,4 @@
+NOTE: This is not my own creation, Just modified to my ability of the X1C7 Hackintosh
 # macOS on Thinkpad X1 Carbon 7th Generation
 OpenCore-based Hackintosh EFI and guide for Lenovo Thinkpad X1 Carbon Gen 7. This guide has been generated for both the model numbers specified below.
 
